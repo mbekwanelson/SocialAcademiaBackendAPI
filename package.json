@@ -1,0 +1,18 @@
+{
+  "name": "social-academia",
+  "version": "1.0.0",
+  "description": "social academia project for research purposes that helps student network easily and share ideas",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Songeziwe Soboois & Ntsikelelo Nelson Mbekwa",
+  "license": "ISC",
+  "dependencies": {
+    "": "^4.18.2",
+    "mongojs": "^3.1.0",
+    "mongoose": "^7.4.5",
+    "socket.io": "^4.7.2",
+    "webrtc": "^1.14.1"
+  }
+}
