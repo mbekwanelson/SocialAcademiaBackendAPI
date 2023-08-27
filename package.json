@@ -11,7 +11,9 @@
   "author": "Songeziwe Soboois & Ntsikelelo Nelson Mbekwa",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
     "mongodb": "^5.8.1",
     "mongoose": "^7.4.5",
     "socket.io": "^4.7.2",
